@@ -1,6 +1,7 @@
 # SWD needle
 
 <img src="doc/view.png" alt="drawing" height="300"/>
+
 ## TERMS OF USAGE / LICENCE
 
 The material provided in this Github repository is subject to the following conditions. 
