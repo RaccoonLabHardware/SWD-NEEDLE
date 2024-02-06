@@ -1,15 +1,14 @@
 ----------------------------------------------------------------------------------------------------------------------------------
-NCDrill File Report For: SWD-NEEDLE.PcbDoc   07.10.2022  12:34:54
+NCDrill File Report For: PCB.PcbDoc   06.02.2024  17:20:47
 ----------------------------------------------------------------------------------------------------------------------------------
 
 Layer Pair : Top Layer to Bottom Layer
-ASCII RoundHoles File : SWD-NEEDLE.TXT
+ASCII RoundHoles File : PCB.TXT
 
 Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
 ----------------------------------------------------------------------------------------------------------------------------------
-T1      0.3mm (12mil)                                             Round             2         PTH        7.55mm (0.30inch)
+T1      0.3mm (12mil)                                             Round             4         PTH        8.45mm (0.33inch)
 T2      0.7mm (28mil)                                             Round             8         PTH        12.80mm (0.50inch)
-T3      1.3mm (51mil)                                             Round             2         PTH        7.00mm (0.28inch)
 ----------------------------------------------------------------------------------------------------------------------------------
 Totals                                                                              12
 

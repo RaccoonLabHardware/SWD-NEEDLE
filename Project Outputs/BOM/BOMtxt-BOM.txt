@@ -1,0 +1,5 @@
+Designator	Quantity	MF	MP	Description	Value	Package	Type	Instructions	HelpURL	System
+
+"D1, D2, D3, D4"	"4"	""	"P75-B1"	"Pogo pin P75-E2, Pogo pin P75-B1"	""	""	"SMD"	"see picture to install"	""	"Connector"
+"DEBUG"	"1"	"JST Sales"	"SM06B-SRSS-TB_LF__SN_"	"Connector Header Surface Mount, Right Angle 6 position 0.039 _1.00mm_"	""	"None"	"SMD"	""	""	"Connector"
+"SWD"	"1"	"JST Sales"	"SM04B-GHS-TB_LF__SN_-"	"Connector Header Surface Mount, Right Angle 4 position 0.049 _1.25mm_"	""	"None"	"SMD"	""	"http://www.farnell.com/datasheets/2082975.pdf"	"Connector"

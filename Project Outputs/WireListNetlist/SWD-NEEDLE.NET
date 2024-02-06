@@ -1,0 +1,44 @@
+Wire List
+
+<<< Component List >>>
+P75-E2                          D1             P75-E2
+P75-B1                          D2             P75-E2
+P75-B1                          D3             P75-E2
+P75-E2                          D4             P75-E2
+SM06B-SRSS-TB(LF)(SN)           DEBUG          JST_SM06B-SRSS-TB(LF)(SN)
+                                SWD            JST_SM04B-GHS-TB(LF)(SN)-
+
+<<< Wire List >>>
+
+  NODE  REFERENCE  PIN #   PIN NAME       PIN TYPE    PART VALUE
+
+[00006] SWDIO
+        D2         1       1              PASSIVE     P75-B1
+        DEBUG      4       4              PASSIVE     SM06B-SRSS-TB(LF)(SN)
+        SWD        2       2              PASSIVE     
+
+[00005] SWCLK
+        D3         1       1              PASSIVE     P75-B1
+        DEBUG      5       5              PASSIVE     SM06B-SRSS-TB(LF)(SN)
+        SWD        3       3              PASSIVE     
+
+[00004] GND
+        D4         1       1              PASSIVE     P75-E2
+        DEBUG      6       6              PASSIVE     SM06B-SRSS-TB(LF)(SN)
+        DEBUG      S1      SHIELD         PASSIVE     SM06B-SRSS-TB(LF)(SN)
+        DEBUG      S2      SHIELD         PASSIVE     SM06B-SRSS-TB(LF)(SN)
+        SWD        4       4              PASSIVE     
+        SWD        SH1     SHIELD         POWER       
+        SWD        SH2     SHIELD         POWER       
+
+[00003] DEBUG_TX
+        DEBUG      2       2              PASSIVE     SM06B-SRSS-TB(LF)(SN)
+
+[00002] DEBUG_RX
+        DEBUG      3       3              PASSIVE     SM06B-SRSS-TB(LF)(SN)
+
+[00001] 3v3
+        D1         1       1              PASSIVE     P75-E2
+        DEBUG      1       1              PASSIVE     SM06B-SRSS-TB(LF)(SN)
+        SWD        1       1              PASSIVE     
+

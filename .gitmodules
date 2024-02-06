@@ -1,0 +1,6 @@
+[submodule "scripts/pcb-tools"]
+	path = scripts/pcb-tools
+	url = https://github.com/sainquake/pcb-tools
+[submodule "scripts/pcb-versions"]
+	path = scripts/pcb-versions
+	url = https://github.com/RaccoonLabHardware/pcb-versions.git

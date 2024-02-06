@@ -1,0 +1,19 @@
+Altium Designer Pick and Place Locations
+C:\altium workspace\RCL\SWD-NEEDLE\Project Outputs\Pick Place\Pick Place for PCB.txt
+
+========================================================================================================================
+File Design Information:
+
+Date:       06.02.24
+Time:       17:20
+Revision:   b43780b178d9ce2b522b58c4480e440d40754e4a
+Variant:    No variations
+Units used: mm
+
+Designator Comment               Layer       Footprint                 Center-X(mm) Center-Y(mm) Rotation Description                                                             
+DEBUG      SM06B-SRSS-TB(LF)(SN) BottomLayer JST_SM06B-SRSS-TB(LF)(SN) 169.4375     273.6000     270      "Connector Header Surface Mount, Right Angle 6 position 0.039 _1.00mm_" 
+D3         P75-B1                TopLayer    P75-E2                    157.0000     274.2000     180      "Pogo pin P75-B1"                                                       
+D2         P75-B1                TopLayer    P75-E2                    157.0000     272.9000     180      "Pogo pin P75-B1"                                                       
+D1         P75-E2                TopLayer    P75-E2                    157.0000     271.6000     180      "Pogo pin P75-E2"                                                       
+D4         P75-E2                TopLayer    P75-E2                    157.0000     275.5000     180      "Pogo pin P75-E2"                                                       
+SWD        ""                    TopLayer    JST_SM04B-GHS-TB(LF)(SN)- 169.2250     273.6000     90       "Connector Header Surface Mount, Right Angle 4 position 0.049 _1.25mm_" 

@@ -1,11 +1,28 @@
 *************************************************************
-FileName = SWD-NEEDLE.GBR
+FileName = PCB.GBR
 AutoAperture = True
 *************************************************************
-Generating : Bottom Solder
-      File : SWD-NEEDLE.GBS
+Generating : Top Layer
+      File : PCB.GTL
 
-    Adding Layer      : Bottom Solder
+    Adding Layer      : Top Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D13
+    D14
+    D18
+    D19
+    D20
+    D21
+    D22
+*************************************************************
+
+*************************************************************
+Generating : Bottom Layer
+      File : PCB.GBL
 
     Adding Layer      : Bottom Layer
 
@@ -13,13 +30,87 @@ Generating : Bottom Solder
 
 
 Used DCodes :
-    D17
     D18
+    D19
+    D20
+    D21
+    D22
+    D23
+    D24
+*************************************************************
+
+*************************************************************
+Generating : Top Overlay
+      File : PCB.GTO
+
+    Adding Layer      : Top Overlay
+
+
+Used DCodes :
+    D10
+    D11
+    D12
+*************************************************************
+
+*************************************************************
+Generating : Top Paste
+      File : PCB.GTP
+
+    Adding Layer      : Top Paste
+
+    Adding Layer      : Top Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D13
+    D14
+*************************************************************
+
+*************************************************************
+Generating : Bottom Paste
+      File : PCB.GBP
+
+    Adding Layer      : Bottom Paste
+
+    Adding Layer      : Bottom Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D23
+    D24
+*************************************************************
+
+*************************************************************
+Generating : Bottom Overlay
+      File : PCB.GBO
+
+    Adding Layer      : Bottom Overlay
+
+
+Used DCodes :
+    D10
+    D11
+    D12
+*************************************************************
+
+*************************************************************
+Generating : Mechanical 2
+      File : PCB.GM2
+
+    Adding Layer      : Mechanical 2
+
+
+Used DCodes :
+    D10
 *************************************************************
 
 *************************************************************
 Generating : Top Solder
-      File : SWD-NEEDLE.GTS
+      File : PCB.GTS
 
     Adding Layer      : Top Solder
 
@@ -32,47 +123,13 @@ Used DCodes :
     D15
     D16
     D17
-    D18
 *************************************************************
 
 *************************************************************
-Generating : Mechanical 2
-      File : SWD-NEEDLE.GM2
+Generating : Bottom Solder
+      File : PCB.GBS
 
-    Adding Layer      : Mechanical 2
-
-
-Used DCodes :
-    D10
-*************************************************************
-
-*************************************************************
-Generating : Bottom Overlay
-      File : SWD-NEEDLE.GBO
-
-    Adding Layer      : Bottom Overlay
-
-
-Used DCodes :
-    D12
-*************************************************************
-
-*************************************************************
-Generating : Top Overlay
-      File : SWD-NEEDLE.GTO
-
-    Adding Layer      : Top Overlay
-
-
-Used DCodes :
-    D10
-    D11
-    D12
-*************************************************************
-
-*************************************************************
-Generating : Bottom Layer
-      File : SWD-NEEDLE.GBL
+    Adding Layer      : Bottom Solder
 
     Adding Layer      : Bottom Layer
 
@@ -80,57 +137,8 @@ Generating : Bottom Layer
 
 
 Used DCodes :
-    D19
-    D20
-    D21
-    D22
-*************************************************************
-
-*************************************************************
-Generating : Top Layer
-      File : SWD-NEEDLE.GTL
-
-    Adding Layer      : Top Layer
-
-    Adding Layer      : Multi-Layer
-
-
-Used DCodes :
-    D13
-    D14
-    D19
-    D20
-    D21
-    D22
-*************************************************************
-
-*************************************************************
-Generating : Bottom Paste
-      File : SWD-NEEDLE.GBP
-
-    Adding Layer      : Bottom Paste
-
-    Adding Layer      : Bottom Layer
-
-    Adding Layer      : Multi-Layer
-
-
-Used DCodes :
-*************************************************************
-
-*************************************************************
-Generating : Top Paste
-      File : SWD-NEEDLE.GTP
-
-    Adding Layer      : Top Paste
-
-    Adding Layer      : Top Layer
-
-    Adding Layer      : Multi-Layer
-
-
-Used DCodes :
-    D13
-    D14
+    D17
+    D25
+    D26
 *************************************************************
 
